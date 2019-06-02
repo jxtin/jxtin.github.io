@@ -1,4 +1,4 @@
-# HarshhChaudhary.github.io
+# hrshcdry.github.io => harshchaudhary.ml
 ---
 ### Credits
 https://vincentgarreau.com/particles.js for Particles.js

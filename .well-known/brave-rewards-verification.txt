@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jxtin.me
+Token: 00d061db8de88eec62d72010ea791f8c95a2e72b1ad633ea5347701aed7455c6
